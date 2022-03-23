@@ -18,7 +18,9 @@ npm install
 node index.js
 ```
 
-Create your roles inside `roles.json`
+* Create your roles inside `roles.json`;
+* Run the command;
+* Check the result inside `output.txt`.
 
 ## Author
 
