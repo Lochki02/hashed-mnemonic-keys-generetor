@@ -1,0 +1,28 @@
+Root Hash: 0xc68f8401210caa22e6b0746109fff7a7076dce71ef3a3028a02943c2a0de9299
+
+========== Hex proof for role Owner ==========
+
+[
+  "0xe8fff7b0d7d980d38d1052fad84d7efd93c799ec0a16d48f7d77abc65f841f50",
+  "0x743078e6c566449164211252bc9bf57a1089292d5ca988034b04ed3947554722"
+]
+
+Literal Key: Owner-cde2e9b69b8a64c14ef887e6d92ff380
+
+========== Hex proof for role Collaborator ==========
+
+[
+  "0x295b75ecb0f9b9efde5b2d7a30a7f77ffc2fc94668c37da336c3866b4dc3b05a",
+  "0x743078e6c566449164211252bc9bf57a1089292d5ca988034b04ed3947554722"
+]
+
+Literal Key: Collaborator-d36975998a790e6a969b1c8121763b46
+
+========== Hex proof for role Chief ==========
+
+[
+  "0xc9a7fc18a36be1af689eb998e2ef0ce49eed45d55aa136b2a50b103ae25df3b3"
+]
+
+Literal Key: Chief-9ca0c67add58375c8bcc362ea77f5f08
+

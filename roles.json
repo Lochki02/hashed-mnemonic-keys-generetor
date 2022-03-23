@@ -1,0 +1,11 @@
+[
+    {
+        "roleName": "Owner"
+    },
+    {
+        "roleName": "Collaborator"
+    },
+    {
+        "roleName": "Chief"
+    }
+]
