@@ -4,6 +4,8 @@
 
 > A tool to generate metadata for NFTs. You can generate Ethereum (or EVM compatible) and Solana metadata
 
+This tool generates a 6 word mnemonic keyphrase hashed with md5. It then creates a Merkle tree made out of the hashed keyphrases.
+
 ## Install
 
 ```sh
@@ -13,14 +15,10 @@ npm install
 ## Usage
 
 ```sh
-node generate.js
+node index.js
 ```
 
-Add your traits in the file attributes.json;
-
-If you want to generate unrevealed metadata for a collection, you can change the value of the variable "hidden" to true.
-
-You can remove the attributes if you don't want to add traits and values.
+Create your roles inside `roles.json`
 
 ## Author
 
